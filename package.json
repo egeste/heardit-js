@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "TBD-JS",
+  "version": "0.0.1",
+  "description": "Client-side javascript for a music discovery service",
+  "url": "https://github.com/egeste/heardit-js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/egeste/heardit-js.git"
+  },
+  "main": "app.js",
+  "ender": "ender.js"
+}
